@@ -1,0 +1,67 @@
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    color: #3262A6;
+}
+
+h1{
+    text-align: center;
+    color: #C05497;
+    letter-spacing: 10px;
+    font-size: 4rem;
+    
+}
+
+h2{
+    color: #C05497;
+    letter-spacing: 10px;
+}
+
+.block{
+    
+   text-align: center;
+   
+}
+
+img{
+    width: 615px;
+    height: 381px;
+    
+}
+
+.pop img{
+    float: right;
+    width: 400px;
+    height: 222px;
+    margin-left: 10px;
+    
+}
+
+
+
+.caribbean img{
+    float: left;
+    width: 400px;
+    height: 222px;
+    margin-right: 10px;
+}
+
+
+
+
+.kingdom img{
+    float: right;
+    width: 400px;
+    height: 222px;
+    margin-left: 10px;
+}
+
+
+.mickey-minnie img{
+    
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
